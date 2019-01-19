@@ -1,9 +1,14 @@
 # vimrc
 
-Zolf's vimrc configurations
+vim configurations
 
-# Install
-Install Vundle first
+## Install
+
+```sh
+$ git clone https://github.com/seamons/vimrc.git
+```
+
+Install Vundle 
 
 ```sh
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
