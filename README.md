@@ -5,7 +5,7 @@ vim configurations
 ## Installation
 
 ```sh
-$ git clone https://github.com/seamons/vimrc.git
+$ git clone https://github.com/seamons/vimrc.git ~/.vim
 ```
 
 Install vim-plug
